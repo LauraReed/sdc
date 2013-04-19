@@ -1,0 +1,26 @@
+form {
+	width:100%;
+}
+
+textarea, input {
+	width:100%;
+	background: rgba(0, 0, 0, 0.45);
+	color:white;
+	border:1px solid #1B1D29;
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:0px;
+	}
+	
+input:focus, textarea:focus {
+	border:1px solid #1B1D29;
+	}
+	
+.sign {
+	display:block;
+	text-align:center;
+	margin:auto;
+	margin-top:10px;
+	width:50%;
+	}
